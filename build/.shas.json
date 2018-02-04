@@ -1,0 +1,410 @@
+[
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "blog-post.html",
+        "sha": "2b7c9a54fd4e9b8ee8468a4b175fffaaaaaf465f"
+      }
+    ],
+    "outputSha": "be3b84451662ae96b59ca28ea63df62ddbc79b35",
+    "input": "blog-post.html",
+    "output": [
+      "blog-post.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "blog.html",
+        "sha": "1d57afd75906cbc0e38acf6e9836a59080ec741a"
+      }
+    ],
+    "outputSha": "8d5134302b344b350507d77722a6f9b8c17cfbe8",
+    "input": "blog.html",
+    "output": [
+      "blog.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "elements.html",
+        "sha": "d6ad335e6b0a91bd828d298f540c6356c2f4f687"
+      }
+    ],
+    "outputSha": "015771a4ce01293b1ad734e3681f4db09428fa59",
+    "input": "elements.html",
+    "output": [
+      "elements.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "icon-budicon.html",
+        "sha": "5ffb0415bc8be1113aa4d718b8ba8a9be0b3bf8f"
+      }
+    ],
+    "outputSha": "5b4c532fad5338302b192df7b777bec73f429182",
+    "input": "icon-budicon.html",
+    "output": [
+      "icon-budicon.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "icon-fontello.html",
+        "sha": "0198c237fb57b4f43a94d21d4be750bc6aa9304a"
+      }
+    ],
+    "outputSha": "c0607a0369dc8a1a00fb1ea924ad583cd74da3ec",
+    "input": "icon-fontello.html",
+    "output": [
+      "icon-fontello.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "index.html",
+        "sha": "f3b62aeceaeebf2cc7972b4ddaa0600a4486e9a3"
+      }
+    ],
+    "outputSha": "177cc59626fb841c43d766c61a80d803d03e642d",
+    "input": "index.html",
+    "output": [
+      "index.html"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style.css",
+        "sha": "fb0aaa7e4f25d984787753eb642e0278dd9866a4"
+      }
+    ],
+    "outputSha": "07ae2976ccb2d6ba7a6911910e6d46885ba98b89",
+    "input": "style.css",
+    "output": [
+      "style.css.map",
+      "style.css"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/port1-more.html",
+        "sha": "5f2305b195cd28a1cc3f98a78caf614dea2498c4"
+      }
+    ],
+    "outputSha": "7eeaf595942e4a582b476538d5202c4d78fe59cb",
+    "input": "ajax/port1-more.html",
+    "output": [
+      "ajax/port1-more.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/port2-more.html",
+        "sha": "08cb0968efbde11a18c0354a3472eecd06a44c67"
+      }
+    ],
+    "outputSha": "e4a69faf75a5ee0e09cf1dba057f7fc1b440d6e5",
+    "input": "ajax/port2-more.html",
+    "output": [
+      "ajax/port2-more.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/post1.html",
+        "sha": "292ae762f88d249ee98f6ffdf5076c082bf189ec"
+      }
+    ],
+    "outputSha": "5a92b78b11de02220e1c7a4fedcab79602182731",
+    "input": "ajax/post1.html",
+    "output": [
+      "ajax/post1.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/post3.html",
+        "sha": "d3d5c00fcc10162d4b020e30baf076ade093af20"
+      }
+    ],
+    "outputSha": "2d1a44f46e7da81ab1ceb9e9bf55fe82f1a1f073",
+    "input": "ajax/post3.html",
+    "output": [
+      "ajax/post3.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/post2.html",
+        "sha": "da6bb4d4d22e0cf96b6d0f5c609d7b6789fa2dee"
+      }
+    ],
+    "outputSha": "57e83486deab51b45f146655909959b99845f589",
+    "input": "ajax/post2.html",
+    "output": [
+      "ajax/post2.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/post4.html",
+        "sha": "b5decf80f699a65be65a4364faf8ec7b49a28faa"
+      }
+    ],
+    "outputSha": "012b33a414be75b3fe20daac7afe717adb93deee",
+    "input": "ajax/post4.html",
+    "output": [
+      "ajax/post4.html"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/plugins.css",
+        "sha": "f681aac6283bf013d02089bbcb6f33e86a2fb2eb"
+      }
+    ],
+    "outputSha": "6bcae04a0fb1fae9bd1d0023bcc19d227a5a366f",
+    "input": "style/css/plugins.css",
+    "output": [
+      "style/css/plugins.css.map",
+      "style/css/plugins.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/prettify.css",
+        "sha": "01ff5fad2d908a27ce69d4a6e2fea86096f44df0"
+      }
+    ],
+    "outputSha": "c7f00608eefa7042522717d7f0f253e2b7049b9c",
+    "input": "style/css/prettify.css",
+    "output": [
+      "style/css/prettify.css.map",
+      "style/css/prettify.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/type/budicons.css",
+        "sha": "92bc4518d3646434c42e9b0367d795090958a5d4"
+      }
+    ],
+    "outputSha": "b24a1a6329cbca17b0869b0f227165b897cefb3c",
+    "input": "style/type/budicons.css",
+    "output": [
+      "style/type/budicons.css.map",
+      "style/type/budicons.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/type/fontello.css",
+        "sha": "e2d70629f78a55deb40e09353e8ddebfbadbfdce"
+      }
+    ],
+    "outputSha": "683c67827503ab89bdeb7df0c95246a9dc565af9",
+    "input": "style/type/fontello.css",
+    "output": [
+      "style/type/fontello.css.map",
+      "style/type/fontello.css"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "style/js/classie.js",
+        "sha": "7eafb00a912e475500ac1a5ec6f8ead5299c4ebb"
+      }
+    ],
+    "outputSha": "b87bf8ce276572728c1a0aadff0bc3f6411ee1b4",
+    "input": "style/js/classie.js",
+    "output": [
+      "style/js/classie.js.map",
+      "style/js/classie.js"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "style/js/plugins.js",
+        "sha": "65d6267a2c48fe30abfb844fe6a41f029183c96e"
+      }
+    ],
+    "outputSha": "3ae948d144a9eb7b2cfbc3ca12756c8fd90c8109",
+    "input": "style/js/plugins.js",
+    "output": [
+      "style/js/plugins.js.map",
+      "style/js/plugins.js"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "style/js/scripts.js",
+        "sha": "0a99eb99c19a06b1c74994d3a8be24468aaccb0b"
+      }
+    ],
+    "outputSha": "17a58ce761f00b1c9284163b201281ba1c3e8781",
+    "input": "style/js/scripts.js",
+    "output": [
+      "style/js/scripts.js.map",
+      "style/js/scripts.js"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/color/aqua.css",
+        "sha": "b8c6921ee7f897c679aba0c7acd08a404e1204f2"
+      }
+    ],
+    "outputSha": "60c14d271dbac9c435f74df0cc02a5dc3673f5af",
+    "input": "style/css/color/aqua.css",
+    "output": [
+      "style/css/color/aqua.css.map",
+      "style/css/color/aqua.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/color/blue.css",
+        "sha": "aaa2dcd1fee942d8adfb751b3905b185bc1f52a7"
+      }
+    ],
+    "outputSha": "4e6ff06e12eead18eacd693e4daed7cd4cb7f793",
+    "input": "style/css/color/blue.css",
+    "output": [
+      "style/css/color/blue.css.map",
+      "style/css/color/blue.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/color/gray.css",
+        "sha": "2f34eb612c5536906b68c98e1c7e3f0759572d8c"
+      }
+    ],
+    "outputSha": "7b85cfc41d3f7e6910dfee476e0bf9cde200a2e9",
+    "input": "style/css/color/gray.css",
+    "output": [
+      "style/css/color/gray.css.map",
+      "style/css/color/gray.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/color/orange.css",
+        "sha": "3401e744fef69b3152719e018eb24750fb028649"
+      }
+    ],
+    "outputSha": "d7b3bf084dcf849392a3fd7267612adcef88ca9c",
+    "input": "style/css/color/orange.css",
+    "output": [
+      "style/css/color/orange.css.map",
+      "style/css/color/orange.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/color/pink.css",
+        "sha": "bc7f49c43601e64a7d975a93af2ef6f3d7a90a4f"
+      }
+    ],
+    "outputSha": "1f835ecec9d0d0c1e80aea16b8bc9a6df18166fc",
+    "input": "style/css/color/pink.css",
+    "output": [
+      "style/css/color/pink.css.map",
+      "style/css/color/pink.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/color/green.css",
+        "sha": "110ae9277d68e9472136cfa00cec59b88f66dcae"
+      }
+    ],
+    "outputSha": "4ed5c5edcc6aa8d7d942ee82d80c056489d3ba4a",
+    "input": "style/css/color/green.css",
+    "output": [
+      "style/css/color/green.css.map",
+      "style/css/color/green.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/color/red.css",
+        "sha": "97857b994a946e784bcc1fcb2fabe45c8ed58978"
+      }
+    ],
+    "outputSha": "c2d67c5765e12272261ad2290e2ea5aa570378a5",
+    "input": "style/css/color/red.css",
+    "output": [
+      "style/css/color/red.css.map",
+      "style/css/color/red.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/color/yellow.css",
+        "sha": "b9613821b0c5a339ebe2e3fafcfe576238158a23"
+      }
+    ],
+    "outputSha": "34b3a05318da555f1ea01b4059b07762fdff4703",
+    "input": "style/css/color/yellow.css",
+    "output": [
+      "style/css/color/yellow.css.map",
+      "style/css/color/yellow.css"
+    ]
+  }
+]

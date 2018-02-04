@@ -1,0 +1,30 @@
+{
+	"name": "supremumstudio.com",
+	"exportDir": "build",
+	"minify": true,
+	"compile": true,
+	"autoprefix": true,
+	"exclusions": [
+		{
+			"path": "bower_components",
+			"action": "dontCompile",
+			"type": "dir"
+		},
+		{
+			"path": "node_modules",
+			"action": "exclude",
+			"type": "dir"
+		},
+		{
+			"path": "README.md",
+			"action": "exclude",
+			"type": "file"
+		},
+		{
+			"path": "*.json",
+			"action": "exclude",
+			"type": "file"
+		}
+	],
+	"port": 3100
+}
