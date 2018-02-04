@@ -18,10 +18,10 @@
     "inputSha": [
       {
         "file": "blog.html",
-        "sha": "1d57afd75906cbc0e38acf6e9836a59080ec741a"
+        "sha": "4c36d089869e9631e6e12c5c12c61d35fb6a0677"
       }
     ],
-    "outputSha": "8d5134302b344b350507d77722a6f9b8c17cfbe8",
+    "outputSha": "1272cc87fb831212fd85cdfc7e97daa6d2858c77",
     "input": "blog.html",
     "output": [
       "blog.html"
@@ -74,10 +74,10 @@
     "inputSha": [
       {
         "file": "index.html",
-        "sha": "f3b62aeceaeebf2cc7972b4ddaa0600a4486e9a3"
+        "sha": "e07e41cf137b7b8a7f6e079f4033c63341292301"
       }
     ],
-    "outputSha": "177cc59626fb841c43d766c61a80d803d03e642d",
+    "outputSha": "a8f1853ac06912310c70dbec8bbee05ce4475e46",
     "input": "index.html",
     "output": [
       "index.html"
@@ -88,10 +88,10 @@
     "inputSha": [
       {
         "file": "style.css",
-        "sha": "fb0aaa7e4f25d984787753eb642e0278dd9866a4"
+        "sha": "5f0c35b6d944b5ef5e541a7636ae18030ec774d5"
       }
     ],
-    "outputSha": "07ae2976ccb2d6ba7a6911910e6d46885ba98b89",
+    "outputSha": "dc1cb6742d0de14cbb24dec245236854b9b5f7c6",
     "input": "style.css",
     "output": [
       "style.css.map",
@@ -102,144 +102,98 @@
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/port1-more.html",
-        "sha": "5f2305b195cd28a1cc3f98a78caf614dea2498c4"
+        "file": "ajax/cubMaze.html",
+        "sha": "e18bb8cd2348caa8a738857dd42b82f46a619d9f"
       }
     ],
-    "outputSha": "7eeaf595942e4a582b476538d5202c4d78fe59cb",
-    "input": "ajax/port1-more.html",
+    "outputSha": "b9b95c693b45a13ceaec446076006572c1c40ebd",
+    "input": "ajax/cubMaze.html",
     "output": [
-      "ajax/port1-more.html"
+      "ajax/cubMaze.html"
     ]
   },
   {
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/port2-more.html",
-        "sha": "08cb0968efbde11a18c0354a3472eecd06a44c67"
+        "file": "ajax/hmfg.html",
+        "sha": "7d32bfcc48cccab30e677e826c0d864c28b725be"
       }
     ],
-    "outputSha": "e4a69faf75a5ee0e09cf1dba057f7fc1b440d6e5",
-    "input": "ajax/port2-more.html",
+    "outputSha": "df7871b0699dc3f24a360ca5bbd1db830f9e9545",
+    "input": "ajax/hmfg.html",
     "output": [
-      "ajax/port2-more.html"
+      "ajax/hmfg.html"
     ]
   },
   {
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/post1.html",
-        "sha": "292ae762f88d249ee98f6ffdf5076c082bf189ec"
+        "file": "ajax/beastieLauncher.html",
+        "sha": "facfa6a48403542b79b093bedb9a6801dfc18bbe"
       }
     ],
-    "outputSha": "5a92b78b11de02220e1c7a4fedcab79602182731",
-    "input": "ajax/post1.html",
+    "outputSha": "db6e3b1008f206c6566c7d1fa691b5966b8aeb0a",
+    "input": "ajax/beastieLauncher.html",
     "output": [
-      "ajax/post1.html"
+      "ajax/beastieLauncher.html"
     ]
   },
   {
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/post3.html",
-        "sha": "d3d5c00fcc10162d4b020e30baf076ade093af20"
+        "file": "ajax/honeyVR.html",
+        "sha": "4bc4294ef514b5e7ca98630e4b3e61020d6bcac6"
       }
     ],
-    "outputSha": "2d1a44f46e7da81ab1ceb9e9bf55fe82f1a1f073",
-    "input": "ajax/post3.html",
+    "outputSha": "63cdfe37d2fb8964c5917b5366f6e271d5bd7757",
+    "input": "ajax/honeyVR.html",
     "output": [
-      "ajax/post3.html"
+      "ajax/honeyVR.html"
     ]
   },
   {
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/post2.html",
-        "sha": "da6bb4d4d22e0cf96b6d0f5c609d7b6789fa2dee"
+        "file": "ajax/inspector.html",
+        "sha": "91d24094814321b8eadb68cde3f8fcbfe8701077"
       }
     ],
-    "outputSha": "57e83486deab51b45f146655909959b99845f589",
-    "input": "ajax/post2.html",
+    "outputSha": "5ed8a67f84541aa02a49c121ff8df3872191b058",
+    "input": "ajax/inspector.html",
     "output": [
-      "ajax/post2.html"
+      "ajax/inspector.html"
     ]
   },
   {
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/post4.html",
-        "sha": "b5decf80f699a65be65a4364faf8ec7b49a28faa"
+        "file": "ajax/switchboard.html",
+        "sha": "ace7321f4884ca3ae2aff9dc8fdb4ed4167b61b4"
       }
     ],
-    "outputSha": "012b33a414be75b3fe20daac7afe717adb93deee",
-    "input": "ajax/post4.html",
+    "outputSha": "2b3601ac4185d8853e2aedfaecf8d15c907990e9",
+    "input": "ajax/switchboard.html",
     "output": [
-      "ajax/post4.html"
+      "ajax/switchboard.html"
     ]
   },
   {
-    "type": "::autoprefix=last 2 versions::map::minify",
+    "type": "::map::minify",
     "inputSha": [
       {
-        "file": "style/css/plugins.css",
-        "sha": "f681aac6283bf013d02089bbcb6f33e86a2fb2eb"
+        "file": "ajax/workShopVR.html",
+        "sha": "175abb12ae3c342134b63d12c2afe1f44dd2475c"
       }
     ],
-    "outputSha": "6bcae04a0fb1fae9bd1d0023bcc19d227a5a366f",
-    "input": "style/css/plugins.css",
+    "outputSha": "fe0ad32420e089c3dd7caa5d7184d0fa11d26d6b",
+    "input": "ajax/workShopVR.html",
     "output": [
-      "style/css/plugins.css.map",
-      "style/css/plugins.css"
-    ]
-  },
-  {
-    "type": "::autoprefix=last 2 versions::map::minify",
-    "inputSha": [
-      {
-        "file": "style/css/prettify.css",
-        "sha": "01ff5fad2d908a27ce69d4a6e2fea86096f44df0"
-      }
-    ],
-    "outputSha": "c7f00608eefa7042522717d7f0f253e2b7049b9c",
-    "input": "style/css/prettify.css",
-    "output": [
-      "style/css/prettify.css.map",
-      "style/css/prettify.css"
-    ]
-  },
-  {
-    "type": "::autoprefix=last 2 versions::map::minify",
-    "inputSha": [
-      {
-        "file": "style/type/budicons.css",
-        "sha": "92bc4518d3646434c42e9b0367d795090958a5d4"
-      }
-    ],
-    "outputSha": "b24a1a6329cbca17b0869b0f227165b897cefb3c",
-    "input": "style/type/budicons.css",
-    "output": [
-      "style/type/budicons.css.map",
-      "style/type/budicons.css"
-    ]
-  },
-  {
-    "type": "::autoprefix=last 2 versions::map::minify",
-    "inputSha": [
-      {
-        "file": "style/type/fontello.css",
-        "sha": "e2d70629f78a55deb40e09353e8ddebfbadbfdce"
-      }
-    ],
-    "outputSha": "683c67827503ab89bdeb7df0c95246a9dc565af9",
-    "input": "style/type/fontello.css",
-    "output": [
-      "style/type/fontello.css.map",
-      "style/type/fontello.css"
+      "ajax/workShopVR.html"
     ]
   },
   {
@@ -277,14 +231,158 @@
     "inputSha": [
       {
         "file": "style/js/scripts.js",
-        "sha": "0a99eb99c19a06b1c74994d3a8be24468aaccb0b"
+        "sha": "ac7b2bf6d38f43f16a848215ca9c303a975d8c26"
       }
     ],
-    "outputSha": "17a58ce761f00b1c9284163b201281ba1c3e8781",
+    "outputSha": "c7f2f091240987d1bb3af3116187dc17b52f8a59",
     "input": "style/js/scripts.js",
     "output": [
       "style/js/scripts.js.map",
       "style/js/scripts.js"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/type/budicons.css",
+        "sha": "92bc4518d3646434c42e9b0367d795090958a5d4"
+      }
+    ],
+    "outputSha": "b24a1a6329cbca17b0869b0f227165b897cefb3c",
+    "input": "style/type/budicons.css",
+    "output": [
+      "style/type/budicons.css.map",
+      "style/type/budicons.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/type/fontello.css",
+        "sha": "e2d70629f78a55deb40e09353e8ddebfbadbfdce"
+      }
+    ],
+    "outputSha": "683c67827503ab89bdeb7df0c95246a9dc565af9",
+    "input": "style/type/fontello.css",
+    "output": [
+      "style/type/fontello.css.map",
+      "style/type/fontello.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/plugins.css",
+        "sha": "f681aac6283bf013d02089bbcb6f33e86a2fb2eb"
+      }
+    ],
+    "outputSha": "6bcae04a0fb1fae9bd1d0023bcc19d227a5a366f",
+    "input": "style/css/plugins.css",
+    "output": [
+      "style/css/plugins.css.map",
+      "style/css/plugins.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/prettify.css",
+        "sha": "01ff5fad2d908a27ce69d4a6e2fea86096f44df0"
+      }
+    ],
+    "outputSha": "c7f00608eefa7042522717d7f0f253e2b7049b9c",
+    "input": "style/css/prettify.css",
+    "output": [
+      "style/css/prettify.css.map",
+      "style/css/prettify.css"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/port1-more.html",
+        "sha": "5f2305b195cd28a1cc3f98a78caf614dea2498c4"
+      }
+    ],
+    "outputSha": "7eeaf595942e4a582b476538d5202c4d78fe59cb",
+    "input": "ajax/old_templates/port1-more.html",
+    "output": [
+      "ajax/old_templates/port1-more.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/port2-more.html",
+        "sha": "08cb0968efbde11a18c0354a3472eecd06a44c67"
+      }
+    ],
+    "outputSha": "e4a69faf75a5ee0e09cf1dba057f7fc1b440d6e5",
+    "input": "ajax/old_templates/port2-more.html",
+    "output": [
+      "ajax/old_templates/port2-more.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/post1.html",
+        "sha": "292ae762f88d249ee98f6ffdf5076c082bf189ec"
+      }
+    ],
+    "outputSha": "5a92b78b11de02220e1c7a4fedcab79602182731",
+    "input": "ajax/old_templates/post1.html",
+    "output": [
+      "ajax/old_templates/post1.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/post2.html",
+        "sha": "da6bb4d4d22e0cf96b6d0f5c609d7b6789fa2dee"
+      }
+    ],
+    "outputSha": "57e83486deab51b45f146655909959b99845f589",
+    "input": "ajax/old_templates/post2.html",
+    "output": [
+      "ajax/old_templates/post2.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/post3.html",
+        "sha": "d3d5c00fcc10162d4b020e30baf076ade093af20"
+      }
+    ],
+    "outputSha": "2d1a44f46e7da81ab1ceb9e9bf55fe82f1a1f073",
+    "input": "ajax/old_templates/post3.html",
+    "output": [
+      "ajax/old_templates/post3.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/post4.html",
+        "sha": "6256078a5fdbfa57e87298fa495c3927c72cf568"
+      }
+    ],
+    "outputSha": "012b33a414be75b3fe20daac7afe717adb93deee",
+    "input": "ajax/old_templates/post4.html",
+    "output": [
+      "ajax/old_templates/post4.html"
     ]
   },
   {
@@ -336,6 +434,21 @@
     "type": "::autoprefix=last 2 versions::map::minify",
     "inputSha": [
       {
+        "file": "style/css/color/green.css",
+        "sha": "110ae9277d68e9472136cfa00cec59b88f66dcae"
+      }
+    ],
+    "outputSha": "4ed5c5edcc6aa8d7d942ee82d80c056489d3ba4a",
+    "input": "style/css/color/green.css",
+    "output": [
+      "style/css/color/green.css.map",
+      "style/css/color/green.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
         "file": "style/css/color/orange.css",
         "sha": "3401e744fef69b3152719e018eb24750fb028649"
       }
@@ -360,21 +473,6 @@
     "output": [
       "style/css/color/pink.css.map",
       "style/css/color/pink.css"
-    ]
-  },
-  {
-    "type": "::autoprefix=last 2 versions::map::minify",
-    "inputSha": [
-      {
-        "file": "style/css/color/green.css",
-        "sha": "110ae9277d68e9472136cfa00cec59b88f66dcae"
-      }
-    ],
-    "outputSha": "4ed5c5edcc6aa8d7d942ee82d80c056489d3ba4a",
-    "input": "style/css/color/green.css",
-    "output": [
-      "style/css/color/green.css.map",
-      "style/css/color/green.css"
     ]
   },
   {
