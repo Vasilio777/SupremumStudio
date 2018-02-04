@@ -395,7 +395,7 @@ blockquote small {
 .frame,
 .sp-thumbnail-container,
 .sp-image-container {
-    border: 1px solid rgba(0, 0, 0, 0.3);
+    /* border: 1px solid rgba(0, 0, 0, 0.3); */
     position: relative;
     overflow: hidden;
     -webkit-backface-visibility: hidden;
@@ -412,9 +412,9 @@ blockquote small {
     width: 100%;
     height: 100%;
     z-index: 10;
-    -moz-box-shadow: inset 0 0 1px 0 rgba(255,255,255,0.3);
-    -webkit-box-shadow: inset 0 0 1px 0 rgba(255,255,255,0.3);
-    box-shadow: inset 0 0 1px 0 rgba(255,255,255,0.3);
+    /* -moz-box-shadow: inset 0 0 1px 0 rgba(255,255,255,0.3);
+    -webkit-box-shadow: inset 0 0 1px 0 rgba(255,255,255,0.3); */
+    /* box-shadow: inset 0 0 1px 0 rgba(255,255,255,0.3); */
 }
 video {
     position: fixed;
