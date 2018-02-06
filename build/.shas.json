@@ -74,10 +74,10 @@
     "inputSha": [
       {
         "file": "index.html",
-        "sha": "e07e41cf137b7b8a7f6e079f4033c63341292301"
+        "sha": "59fd4c1eb046f53e8abab72a3c0b9dad3a0de64c"
       }
     ],
-    "outputSha": "a8f1853ac06912310c70dbec8bbee05ce4475e46",
+    "outputSha": "90bac7844cb7f4e2add589bd2f7129d767c07fb0",
     "input": "index.html",
     "output": [
       "index.html"
@@ -88,14 +88,28 @@
     "inputSha": [
       {
         "file": "style.css",
-        "sha": "5f0c35b6d944b5ef5e541a7636ae18030ec774d5"
+        "sha": "bf464117df2869b24a0f5822bd7de20df9bdd8ac"
       }
     ],
-    "outputSha": "dc1cb6742d0de14cbb24dec245236854b9b5f7c6",
+    "outputSha": "6277099c373ee7c8a59151fbd32ae56ea963f124",
     "input": "style.css",
     "output": [
       "style.css.map",
       "style.css"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/beastieLauncher.html",
+        "sha": "facfa6a48403542b79b093bedb9a6801dfc18bbe"
+      }
+    ],
+    "outputSha": "db6e3b1008f206c6566c7d1fa691b5966b8aeb0a",
+    "input": "ajax/beastieLauncher.html",
+    "output": [
+      "ajax/beastieLauncher.html"
     ]
   },
   {
@@ -130,20 +144,6 @@
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/beastieLauncher.html",
-        "sha": "facfa6a48403542b79b093bedb9a6801dfc18bbe"
-      }
-    ],
-    "outputSha": "db6e3b1008f206c6566c7d1fa691b5966b8aeb0a",
-    "input": "ajax/beastieLauncher.html",
-    "output": [
-      "ajax/beastieLauncher.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
         "file": "ajax/honeyVR.html",
         "sha": "4bc4294ef514b5e7ca98630e4b3e61020d6bcac6"
       }
@@ -172,6 +172,20 @@
     "type": "::map::minify",
     "inputSha": [
       {
+        "file": "ajax/recover.html",
+        "sha": "b202d6b2dff2fd16915964047e16c7e34a9ed00b"
+      }
+    ],
+    "outputSha": "852f08266d349cac20b9fe3e9792dc185676a9db",
+    "input": "ajax/recover.html",
+    "output": [
+      "ajax/recover.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
         "file": "ajax/switchboard.html",
         "sha": "ace7321f4884ca3ae2aff9dc8fdb4ed4167b61b4"
       }
@@ -186,6 +200,20 @@
     "type": "::map::minify",
     "inputSha": [
       {
+        "file": "ajax/rgups.html",
+        "sha": "9c3e5fee63586b96d1ae4914b7edf4edb5af6c5d"
+      }
+    ],
+    "outputSha": "3a27c63435e33b653b69cbba2091040c042b4ba4",
+    "input": "ajax/rgups.html",
+    "output": [
+      "ajax/rgups.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
         "file": "ajax/workShopVR.html",
         "sha": "175abb12ae3c342134b63d12c2afe1f44dd2475c"
       }
@@ -194,111 +222,6 @@
     "input": "ajax/workShopVR.html",
     "output": [
       "ajax/workShopVR.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "style/js/classie.js",
-        "sha": "7eafb00a912e475500ac1a5ec6f8ead5299c4ebb"
-      }
-    ],
-    "outputSha": "b87bf8ce276572728c1a0aadff0bc3f6411ee1b4",
-    "input": "style/js/classie.js",
-    "output": [
-      "style/js/classie.js.map",
-      "style/js/classie.js"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "style/js/plugins.js",
-        "sha": "65d6267a2c48fe30abfb844fe6a41f029183c96e"
-      }
-    ],
-    "outputSha": "3ae948d144a9eb7b2cfbc3ca12756c8fd90c8109",
-    "input": "style/js/plugins.js",
-    "output": [
-      "style/js/plugins.js.map",
-      "style/js/plugins.js"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "style/js/scripts.js",
-        "sha": "ac7b2bf6d38f43f16a848215ca9c303a975d8c26"
-      }
-    ],
-    "outputSha": "c7f2f091240987d1bb3af3116187dc17b52f8a59",
-    "input": "style/js/scripts.js",
-    "output": [
-      "style/js/scripts.js.map",
-      "style/js/scripts.js"
-    ]
-  },
-  {
-    "type": "::autoprefix=last 2 versions::map::minify",
-    "inputSha": [
-      {
-        "file": "style/type/budicons.css",
-        "sha": "92bc4518d3646434c42e9b0367d795090958a5d4"
-      }
-    ],
-    "outputSha": "b24a1a6329cbca17b0869b0f227165b897cefb3c",
-    "input": "style/type/budicons.css",
-    "output": [
-      "style/type/budicons.css.map",
-      "style/type/budicons.css"
-    ]
-  },
-  {
-    "type": "::autoprefix=last 2 versions::map::minify",
-    "inputSha": [
-      {
-        "file": "style/type/fontello.css",
-        "sha": "e2d70629f78a55deb40e09353e8ddebfbadbfdce"
-      }
-    ],
-    "outputSha": "683c67827503ab89bdeb7df0c95246a9dc565af9",
-    "input": "style/type/fontello.css",
-    "output": [
-      "style/type/fontello.css.map",
-      "style/type/fontello.css"
-    ]
-  },
-  {
-    "type": "::autoprefix=last 2 versions::map::minify",
-    "inputSha": [
-      {
-        "file": "style/css/plugins.css",
-        "sha": "f681aac6283bf013d02089bbcb6f33e86a2fb2eb"
-      }
-    ],
-    "outputSha": "6bcae04a0fb1fae9bd1d0023bcc19d227a5a366f",
-    "input": "style/css/plugins.css",
-    "output": [
-      "style/css/plugins.css.map",
-      "style/css/plugins.css"
-    ]
-  },
-  {
-    "type": "::autoprefix=last 2 versions::map::minify",
-    "inputSha": [
-      {
-        "file": "style/css/prettify.css",
-        "sha": "01ff5fad2d908a27ce69d4a6e2fea86096f44df0"
-      }
-    ],
-    "outputSha": "c7f00608eefa7042522717d7f0f253e2b7049b9c",
-    "input": "style/css/prettify.css",
-    "output": [
-      "style/css/prettify.css.map",
-      "style/css/prettify.css"
     ]
   },
   {
@@ -383,6 +306,111 @@
     "input": "ajax/old_templates/post4.html",
     "output": [
       "ajax/old_templates/post4.html"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/plugins.css",
+        "sha": "f681aac6283bf013d02089bbcb6f33e86a2fb2eb"
+      }
+    ],
+    "outputSha": "6bcae04a0fb1fae9bd1d0023bcc19d227a5a366f",
+    "input": "style/css/plugins.css",
+    "output": [
+      "style/css/plugins.css.map",
+      "style/css/plugins.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/prettify.css",
+        "sha": "01ff5fad2d908a27ce69d4a6e2fea86096f44df0"
+      }
+    ],
+    "outputSha": "c7f00608eefa7042522717d7f0f253e2b7049b9c",
+    "input": "style/css/prettify.css",
+    "output": [
+      "style/css/prettify.css.map",
+      "style/css/prettify.css"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "style/js/classie.js",
+        "sha": "7eafb00a912e475500ac1a5ec6f8ead5299c4ebb"
+      }
+    ],
+    "outputSha": "b87bf8ce276572728c1a0aadff0bc3f6411ee1b4",
+    "input": "style/js/classie.js",
+    "output": [
+      "style/js/classie.js.map",
+      "style/js/classie.js"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "style/js/plugins.js",
+        "sha": "65d6267a2c48fe30abfb844fe6a41f029183c96e"
+      }
+    ],
+    "outputSha": "3ae948d144a9eb7b2cfbc3ca12756c8fd90c8109",
+    "input": "style/js/plugins.js",
+    "output": [
+      "style/js/plugins.js.map",
+      "style/js/plugins.js"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "style/js/scripts.js",
+        "sha": "ac7b2bf6d38f43f16a848215ca9c303a975d8c26"
+      }
+    ],
+    "outputSha": "c7f2f091240987d1bb3af3116187dc17b52f8a59",
+    "input": "style/js/scripts.js",
+    "output": [
+      "style/js/scripts.js.map",
+      "style/js/scripts.js"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/type/budicons.css",
+        "sha": "92bc4518d3646434c42e9b0367d795090958a5d4"
+      }
+    ],
+    "outputSha": "b24a1a6329cbca17b0869b0f227165b897cefb3c",
+    "input": "style/type/budicons.css",
+    "output": [
+      "style/type/budicons.css.map",
+      "style/type/budicons.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/type/fontello.css",
+        "sha": "e2d70629f78a55deb40e09353e8ddebfbadbfdce"
+      }
+    ],
+    "outputSha": "683c67827503ab89bdeb7df0c95246a9dc565af9",
+    "input": "style/type/fontello.css",
+    "output": [
+      "style/type/fontello.css.map",
+      "style/type/fontello.css"
     ]
   },
   {
