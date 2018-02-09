@@ -1,15 +1,15 @@
 <?php
 include('SMTPClass.php');
 
-$use_smtp = '1';
+$use_smtp = '0';
 $emailto = 'vasilio_rostov@mail.ru';
 
 	// retrieve from parameters
 	$emailfrom = isset($_POST["email"]) ? $_POST["email"] : "";
 	$nocomment = isset($_POST["nocomment"]) ? $_POST["nocomment"] : "";
-	$subject = 'Email from supremumstudio.com';
-	$message = 'Sended.';
-	$response = 'Well Done!';
+	$subject = 'Email from supremumStudio.com';
+	$message = '';
+	$response = '';
 	$response_fail = 'There was an error verifying your details.';
 	
 		// Honeypot captcha
@@ -46,8 +46,8 @@ $emailto = 'vasilio_rostov@mail.ru';
 function sendEmail($subject, $content, $emailto, $emailfrom) {
 	
 	$from = $emailfrom;
-	$response_sent = 'Ваше сообщение успешно отправлено. Спасибо!';
-	$response_error = 'Ошибка. Пожалуйста, попробуйте позже.';
+	$response_sent = 'Thank you. Your messsage has been received.';
+	$response_error = 'Error. Please try again.';
 	$subject =  filter($subject);
 	$url = "Origin Page: ".$_SERVER['HTTP_REFERER'];
 	$ip = "IP Address: ".$_SERVER["REMOTE_ADDR"];
@@ -61,10 +61,10 @@ function sendEmail($subject, $content, $emailto, $emailfrom) {
 	
 	if($use_smtp == '1'){
 	
-		$SmtpServer = 'smtp.mail.ru';
-		$SmtpPort = '465';
-		$SmtpUser = 'vasilio_rostov@mail.ru';
-		$SmtpPass = 'rostov951';
+		$SmtpServer = 'SMTP SERVER';
+		$SmtpPort = 'SMTP PORT';
+		$SmtpUser = 'SMTP USER';
+		$SmtpPass = 'SMTP PASSWORD';
 		
 		$to = $emailto;
 		$SMTPMail = new SMTPClient ($SmtpServer, $SmtpPort, $SmtpUser, $SmtpPass, $from, $to, $subject, $body);

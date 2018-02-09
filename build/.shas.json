@@ -17,20 +17,6 @@
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "blog.html",
-        "sha": "4c36d089869e9631e6e12c5c12c61d35fb6a0677"
-      }
-    ],
-    "outputSha": "1272cc87fb831212fd85cdfc7e97daa6d2858c77",
-    "input": "blog.html",
-    "output": [
-      "blog.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
         "file": "elements.html",
         "sha": "d6ad335e6b0a91bd828d298f540c6356c2f4f687"
       }
@@ -39,6 +25,20 @@
     "input": "elements.html",
     "output": [
       "elements.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "blog.html",
+        "sha": "4c36d089869e9631e6e12c5c12c61d35fb6a0677"
+      }
+    ],
+    "outputSha": "1272cc87fb831212fd85cdfc7e97daa6d2858c77",
+    "input": "blog.html",
+    "output": [
+      "blog.html"
     ]
   },
   {
@@ -102,20 +102,6 @@
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/cubMaze.html",
-        "sha": "e18bb8cd2348caa8a738857dd42b82f46a619d9f"
-      }
-    ],
-    "outputSha": "b9b95c693b45a13ceaec446076006572c1c40ebd",
-    "input": "ajax/cubMaze.html",
-    "output": [
-      "ajax/cubMaze.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
         "file": "ajax/beastieLauncher.html",
         "sha": "facfa6a48403542b79b093bedb9a6801dfc18bbe"
       }
@@ -138,6 +124,20 @@
     "input": "ajax/hmfg.html",
     "output": [
       "ajax/hmfg.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/cubMaze.html",
+        "sha": "e18bb8cd2348caa8a738857dd42b82f46a619d9f"
+      }
+    ],
+    "outputSha": "b9b95c693b45a13ceaec446076006572c1c40ebd",
+    "input": "ajax/cubMaze.html",
+    "output": [
+      "ajax/cubMaze.html"
     ]
   },
   {
@@ -200,20 +200,6 @@
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/workShopVR.html",
-        "sha": "175abb12ae3c342134b63d12c2afe1f44dd2475c"
-      }
-    ],
-    "outputSha": "fe0ad32420e089c3dd7caa5d7184d0fa11d26d6b",
-    "input": "ajax/workShopVR.html",
-    "output": [
-      "ajax/workShopVR.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
         "file": "ajax/switchboard.html",
         "sha": "ace7321f4884ca3ae2aff9dc8fdb4ed4167b61b4"
       }
@@ -225,108 +211,17 @@
     ]
   },
   {
-    "type": "::autoprefix=last 2 versions::map::minify",
-    "inputSha": [
-      {
-        "file": "style/css/plugins.css",
-        "sha": "f681aac6283bf013d02089bbcb6f33e86a2fb2eb"
-      }
-    ],
-    "outputSha": "6bcae04a0fb1fae9bd1d0023bcc19d227a5a366f",
-    "input": "style/css/plugins.css",
-    "output": [
-      "style/css/plugins.css.map",
-      "style/css/plugins.css"
-    ]
-  },
-  {
-    "type": "::autoprefix=last 2 versions::map::minify",
-    "inputSha": [
-      {
-        "file": "style/css/prettify.css",
-        "sha": "01ff5fad2d908a27ce69d4a6e2fea86096f44df0"
-      }
-    ],
-    "outputSha": "c7f00608eefa7042522717d7f0f253e2b7049b9c",
-    "input": "style/css/prettify.css",
-    "output": [
-      "style/css/prettify.css.map",
-      "style/css/prettify.css"
-    ]
-  },
-  {
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "style/js/classie.js",
-        "sha": "7eafb00a912e475500ac1a5ec6f8ead5299c4ebb"
+        "file": "ajax/workShopVR.html",
+        "sha": "175abb12ae3c342134b63d12c2afe1f44dd2475c"
       }
     ],
-    "outputSha": "b87bf8ce276572728c1a0aadff0bc3f6411ee1b4",
-    "input": "style/js/classie.js",
+    "outputSha": "fe0ad32420e089c3dd7caa5d7184d0fa11d26d6b",
+    "input": "ajax/workShopVR.html",
     "output": [
-      "style/js/classie.js.map",
-      "style/js/classie.js"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "style/js/plugins.js",
-        "sha": "65d6267a2c48fe30abfb844fe6a41f029183c96e"
-      }
-    ],
-    "outputSha": "3ae948d144a9eb7b2cfbc3ca12756c8fd90c8109",
-    "input": "style/js/plugins.js",
-    "output": [
-      "style/js/plugins.js.map",
-      "style/js/plugins.js"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "style/js/scripts.js",
-        "sha": "ac7b2bf6d38f43f16a848215ca9c303a975d8c26"
-      }
-    ],
-    "outputSha": "c7f2f091240987d1bb3af3116187dc17b52f8a59",
-    "input": "style/js/scripts.js",
-    "output": [
-      "style/js/scripts.js.map",
-      "style/js/scripts.js"
-    ]
-  },
-  {
-    "type": "::autoprefix=last 2 versions::map::minify",
-    "inputSha": [
-      {
-        "file": "style/type/budicons.css",
-        "sha": "92bc4518d3646434c42e9b0367d795090958a5d4"
-      }
-    ],
-    "outputSha": "b24a1a6329cbca17b0869b0f227165b897cefb3c",
-    "input": "style/type/budicons.css",
-    "output": [
-      "style/type/budicons.css.map",
-      "style/type/budicons.css"
-    ]
-  },
-  {
-    "type": "::autoprefix=last 2 versions::map::minify",
-    "inputSha": [
-      {
-        "file": "style/type/fontello.css",
-        "sha": "e2d70629f78a55deb40e09353e8ddebfbadbfdce"
-      }
-    ],
-    "outputSha": "683c67827503ab89bdeb7df0c95246a9dc565af9",
-    "input": "style/type/fontello.css",
-    "output": [
-      "style/type/fontello.css.map",
-      "style/type/fontello.css"
+      "ajax/workShopVR.html"
     ]
   },
   {
@@ -411,6 +306,111 @@
     "input": "ajax/old_templates/post4.html",
     "output": [
       "ajax/old_templates/post4.html"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/plugins.css",
+        "sha": "f681aac6283bf013d02089bbcb6f33e86a2fb2eb"
+      }
+    ],
+    "outputSha": "6bcae04a0fb1fae9bd1d0023bcc19d227a5a366f",
+    "input": "style/css/plugins.css",
+    "output": [
+      "style/css/plugins.css.map",
+      "style/css/plugins.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/css/prettify.css",
+        "sha": "01ff5fad2d908a27ce69d4a6e2fea86096f44df0"
+      }
+    ],
+    "outputSha": "c7f00608eefa7042522717d7f0f253e2b7049b9c",
+    "input": "style/css/prettify.css",
+    "output": [
+      "style/css/prettify.css.map",
+      "style/css/prettify.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/type/budicons.css",
+        "sha": "92bc4518d3646434c42e9b0367d795090958a5d4"
+      }
+    ],
+    "outputSha": "b24a1a6329cbca17b0869b0f227165b897cefb3c",
+    "input": "style/type/budicons.css",
+    "output": [
+      "style/type/budicons.css.map",
+      "style/type/budicons.css"
+    ]
+  },
+  {
+    "type": "::autoprefix=last 2 versions::map::minify",
+    "inputSha": [
+      {
+        "file": "style/type/fontello.css",
+        "sha": "e2d70629f78a55deb40e09353e8ddebfbadbfdce"
+      }
+    ],
+    "outputSha": "683c67827503ab89bdeb7df0c95246a9dc565af9",
+    "input": "style/type/fontello.css",
+    "output": [
+      "style/type/fontello.css.map",
+      "style/type/fontello.css"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "style/js/classie.js",
+        "sha": "7eafb00a912e475500ac1a5ec6f8ead5299c4ebb"
+      }
+    ],
+    "outputSha": "b87bf8ce276572728c1a0aadff0bc3f6411ee1b4",
+    "input": "style/js/classie.js",
+    "output": [
+      "style/js/classie.js.map",
+      "style/js/classie.js"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "style/js/plugins.js",
+        "sha": "65d6267a2c48fe30abfb844fe6a41f029183c96e"
+      }
+    ],
+    "outputSha": "3ae948d144a9eb7b2cfbc3ca12756c8fd90c8109",
+    "input": "style/js/plugins.js",
+    "output": [
+      "style/js/plugins.js.map",
+      "style/js/plugins.js"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "style/js/scripts.js",
+        "sha": "ac7b2bf6d38f43f16a848215ca9c303a975d8c26"
+      }
+    ],
+    "outputSha": "c7f2f091240987d1bb3af3116187dc17b52f8a59",
+    "input": "style/js/scripts.js",
+    "output": [
+      "style/js/scripts.js.map",
+      "style/js/scripts.js"
     ]
   },
   {
