@@ -116,20 +116,6 @@
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/cubMaze.html",
-        "sha": "e18bb8cd2348caa8a738857dd42b82f46a619d9f"
-      }
-    ],
-    "outputSha": "b9b95c693b45a13ceaec446076006572c1c40ebd",
-    "input": "ajax/cubMaze.html",
-    "output": [
-      "ajax/cubMaze.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
         "file": "ajax/hmfg.html",
         "sha": "7d32bfcc48cccab30e677e826c0d864c28b725be"
       }
@@ -138,6 +124,20 @@
     "input": "ajax/hmfg.html",
     "output": [
       "ajax/hmfg.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/cubMaze.html",
+        "sha": "e18bb8cd2348caa8a738857dd42b82f46a619d9f"
+      }
+    ],
+    "outputSha": "b9b95c693b45a13ceaec446076006572c1c40ebd",
+    "input": "ajax/cubMaze.html",
+    "output": [
+      "ajax/cubMaze.html"
     ]
   },
   {
@@ -186,20 +186,6 @@
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/rgups.html",
-        "sha": "9c3e5fee63586b96d1ae4914b7edf4edb5af6c5d"
-      }
-    ],
-    "outputSha": "3a27c63435e33b653b69cbba2091040c042b4ba4",
-    "input": "ajax/rgups.html",
-    "output": [
-      "ajax/rgups.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
         "file": "ajax/switchboard.html",
         "sha": "ace7321f4884ca3ae2aff9dc8fdb4ed4167b61b4"
       }
@@ -208,6 +194,20 @@
     "input": "ajax/switchboard.html",
     "output": [
       "ajax/switchboard.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/rgups.html",
+        "sha": "9c3e5fee63586b96d1ae4914b7edf4edb5af6c5d"
+      }
+    ],
+    "outputSha": "3a27c63435e33b653b69cbba2091040c042b4ba4",
+    "input": "ajax/rgups.html",
+    "output": [
+      "ajax/rgups.html"
     ]
   },
   {

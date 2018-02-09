@@ -2,7 +2,7 @@
 include('SMTPClass.php');
 
 $use_smtp = '1';
-$emailto = 'vasilio_rostov@mail.ru';
+$emailto = 'info@supremumstudio.com';
 
 	// retrieve from parameters
 	$emailfrom = isset($_POST["email"]) ? $_POST["email"] : "";
@@ -61,10 +61,10 @@ function sendEmail($subject, $content, $emailto, $emailfrom) {
 	
 	if($use_smtp == '1'){
 	
-		$SmtpServer = 'smtp.mail.ru';
+		$SmtpServer = 'smtp.yandex.ru';
 		$SmtpPort = '465';
-		$SmtpUser = 'vasilio_rostov@mail.ru';
-		$SmtpPass = 'rostov951';
+		$SmtpUser = 'info@supremumstudio.com';
+		$SmtpPass = 'infosupremum';
 		
 		$to = $emailto;
 		$SMTPMail = new SMTPClient ($SmtpServer, $SmtpPort, $SmtpUser, $SmtpPass, $from, $to, $subject, $body);
