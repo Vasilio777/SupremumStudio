@@ -17,20 +17,6 @@
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "elements.html",
-        "sha": "d6ad335e6b0a91bd828d298f540c6356c2f4f687"
-      }
-    ],
-    "outputSha": "015771a4ce01293b1ad734e3681f4db09428fa59",
-    "input": "elements.html",
-    "output": [
-      "elements.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
         "file": "blog.html",
         "sha": "4c36d089869e9631e6e12c5c12c61d35fb6a0677"
       }
@@ -39,6 +25,20 @@
     "input": "blog.html",
     "output": [
       "blog.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "elements.html",
+        "sha": "d6ad335e6b0a91bd828d298f540c6356c2f4f687"
+      }
+    ],
+    "outputSha": "015771a4ce01293b1ad734e3681f4db09428fa59",
+    "input": "elements.html",
+    "output": [
+      "elements.html"
     ]
   },
   {
@@ -116,20 +116,6 @@
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/hmfg.html",
-        "sha": "7d32bfcc48cccab30e677e826c0d864c28b725be"
-      }
-    ],
-    "outputSha": "df7871b0699dc3f24a360ca5bbd1db830f9e9545",
-    "input": "ajax/hmfg.html",
-    "output": [
-      "ajax/hmfg.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
         "file": "ajax/cubMaze.html",
         "sha": "e18bb8cd2348caa8a738857dd42b82f46a619d9f"
       }
@@ -138,6 +124,20 @@
     "input": "ajax/cubMaze.html",
     "output": [
       "ajax/cubMaze.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/hmfg.html",
+        "sha": "7d32bfcc48cccab30e677e826c0d864c28b725be"
+      }
+    ],
+    "outputSha": "df7871b0699dc3f24a360ca5bbd1db830f9e9545",
+    "input": "ajax/hmfg.html",
+    "output": [
+      "ajax/hmfg.html"
     ]
   },
   {
