@@ -74,10 +74,10 @@
     "inputSha": [
       {
         "file": "index.html",
-        "sha": "59fd4c1eb046f53e8abab72a3c0b9dad3a0de64c"
+        "sha": "0fcca1fd667fddaca2e47835626f2a8b17a7691c"
       }
     ],
-    "outputSha": "90bac7844cb7f4e2add589bd2f7129d767c07fb0",
+    "outputSha": "996b44cfe67981042eb40bfe478a569efdd07a40",
     "input": "index.html",
     "output": [
       "index.html"
@@ -88,28 +88,14 @@
     "inputSha": [
       {
         "file": "style.css",
-        "sha": "bf464117df2869b24a0f5822bd7de20df9bdd8ac"
+        "sha": "494cbbd7f9202997e68b2ca29a69f32809d02b34"
       }
     ],
-    "outputSha": "6277099c373ee7c8a59151fbd32ae56ea963f124",
+    "outputSha": "948e454b10b6e331fa8aab38740232ed690f518b",
     "input": "style.css",
     "output": [
       "style.css.map",
       "style.css"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "ajax/beastieLauncher.html",
-        "sha": "facfa6a48403542b79b093bedb9a6801dfc18bbe"
-      }
-    ],
-    "outputSha": "db6e3b1008f206c6566c7d1fa691b5966b8aeb0a",
-    "input": "ajax/beastieLauncher.html",
-    "output": [
-      "ajax/beastieLauncher.html"
     ]
   },
   {
@@ -124,6 +110,20 @@
     "input": "ajax/cubMaze.html",
     "output": [
       "ajax/cubMaze.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/beastieLauncher.html",
+        "sha": "facfa6a48403542b79b093bedb9a6801dfc18bbe"
+      }
+    ],
+    "outputSha": "db6e3b1008f206c6566c7d1fa691b5966b8aeb0a",
+    "input": "ajax/beastieLauncher.html",
+    "output": [
+      "ajax/beastieLauncher.html"
     ]
   },
   {
@@ -186,20 +186,6 @@
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/switchboard.html",
-        "sha": "ace7321f4884ca3ae2aff9dc8fdb4ed4167b61b4"
-      }
-    ],
-    "outputSha": "2b3601ac4185d8853e2aedfaecf8d15c907990e9",
-    "input": "ajax/switchboard.html",
-    "output": [
-      "ajax/switchboard.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
         "file": "ajax/rgups.html",
         "sha": "9c3e5fee63586b96d1ae4914b7edf4edb5af6c5d"
       }
@@ -228,84 +214,14 @@
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/old_templates/port1-more.html",
-        "sha": "5f2305b195cd28a1cc3f98a78caf614dea2498c4"
+        "file": "ajax/switchboard.html",
+        "sha": "ace7321f4884ca3ae2aff9dc8fdb4ed4167b61b4"
       }
     ],
-    "outputSha": "7eeaf595942e4a582b476538d5202c4d78fe59cb",
-    "input": "ajax/old_templates/port1-more.html",
+    "outputSha": "2b3601ac4185d8853e2aedfaecf8d15c907990e9",
+    "input": "ajax/switchboard.html",
     "output": [
-      "ajax/old_templates/port1-more.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "ajax/old_templates/port2-more.html",
-        "sha": "08cb0968efbde11a18c0354a3472eecd06a44c67"
-      }
-    ],
-    "outputSha": "e4a69faf75a5ee0e09cf1dba057f7fc1b440d6e5",
-    "input": "ajax/old_templates/port2-more.html",
-    "output": [
-      "ajax/old_templates/port2-more.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "ajax/old_templates/post1.html",
-        "sha": "292ae762f88d249ee98f6ffdf5076c082bf189ec"
-      }
-    ],
-    "outputSha": "5a92b78b11de02220e1c7a4fedcab79602182731",
-    "input": "ajax/old_templates/post1.html",
-    "output": [
-      "ajax/old_templates/post1.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "ajax/old_templates/post2.html",
-        "sha": "da6bb4d4d22e0cf96b6d0f5c609d7b6789fa2dee"
-      }
-    ],
-    "outputSha": "57e83486deab51b45f146655909959b99845f589",
-    "input": "ajax/old_templates/post2.html",
-    "output": [
-      "ajax/old_templates/post2.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "ajax/old_templates/post3.html",
-        "sha": "d3d5c00fcc10162d4b020e30baf076ade093af20"
-      }
-    ],
-    "outputSha": "2d1a44f46e7da81ab1ceb9e9bf55fe82f1a1f073",
-    "input": "ajax/old_templates/post3.html",
-    "output": [
-      "ajax/old_templates/post3.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "ajax/old_templates/post4.html",
-        "sha": "6256078a5fdbfa57e87298fa495c3927c72cf568"
-      }
-    ],
-    "outputSha": "012b33a414be75b3fe20daac7afe717adb93deee",
-    "input": "ajax/old_templates/post4.html",
-    "output": [
-      "ajax/old_templates/post4.html"
+      "ajax/switchboard.html"
     ]
   },
   {
@@ -411,6 +327,90 @@
     "output": [
       "style/type/fontello.css.map",
       "style/type/fontello.css"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/port1-more.html",
+        "sha": "5f2305b195cd28a1cc3f98a78caf614dea2498c4"
+      }
+    ],
+    "outputSha": "7eeaf595942e4a582b476538d5202c4d78fe59cb",
+    "input": "ajax/old_templates/port1-more.html",
+    "output": [
+      "ajax/old_templates/port1-more.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/port2-more.html",
+        "sha": "08cb0968efbde11a18c0354a3472eecd06a44c67"
+      }
+    ],
+    "outputSha": "e4a69faf75a5ee0e09cf1dba057f7fc1b440d6e5",
+    "input": "ajax/old_templates/port2-more.html",
+    "output": [
+      "ajax/old_templates/port2-more.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/post1.html",
+        "sha": "292ae762f88d249ee98f6ffdf5076c082bf189ec"
+      }
+    ],
+    "outputSha": "5a92b78b11de02220e1c7a4fedcab79602182731",
+    "input": "ajax/old_templates/post1.html",
+    "output": [
+      "ajax/old_templates/post1.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/post2.html",
+        "sha": "da6bb4d4d22e0cf96b6d0f5c609d7b6789fa2dee"
+      }
+    ],
+    "outputSha": "57e83486deab51b45f146655909959b99845f589",
+    "input": "ajax/old_templates/post2.html",
+    "output": [
+      "ajax/old_templates/post2.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/post3.html",
+        "sha": "d3d5c00fcc10162d4b020e30baf076ade093af20"
+      }
+    ],
+    "outputSha": "2d1a44f46e7da81ab1ceb9e9bf55fe82f1a1f073",
+    "input": "ajax/old_templates/post3.html",
+    "output": [
+      "ajax/old_templates/post3.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/post4.html",
+        "sha": "6256078a5fdbfa57e87298fa495c3927c72cf568"
+      }
+    ],
+    "outputSha": "012b33a414be75b3fe20daac7afe717adb93deee",
+    "input": "ajax/old_templates/post4.html",
+    "output": [
+      "ajax/old_templates/post4.html"
     ]
   },
   {

@@ -222,6 +222,10 @@ h6 {
     font-size: 14px;
     line-height: 20px;
 }
+.section-title {
+    width: 100%;
+}
+
 .section-title,
 h1.post-title {
     margin-bottom: 20px;
@@ -665,6 +669,11 @@ video {
     -o-transition: none;
     -moz-transition: none;
 }
+
+.navbar-brand a img {
+    height: 60px;
+}
+
 .navbar-brand {
     -webkit-transition: all 200ms ease-in;
     -o-transition: all 200ms ease-in;

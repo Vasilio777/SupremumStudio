@@ -1,15 +1,15 @@
 <?php
 include('SMTPClass.php');
 
-$use_smtp = '0';
+$use_smtp = '1';
 $emailto = 'vasilio_rostov@mail.ru';
 
 	// retrieve from parameters
 	$emailfrom = isset($_POST["email"]) ? $_POST["email"] : "";
 	$nocomment = isset($_POST["nocomment"]) ? $_POST["nocomment"] : "";
-	$subject = 'Email from Lumos';
-	$message = '';
-	$response = '';
+	$subject = 'Email from supremumstudio.com';
+	$message = 'Sended.';
+	$response = 'Well Done!';
 	$response_fail = 'There was an error verifying your details.';
 	
 		// Honeypot captcha
