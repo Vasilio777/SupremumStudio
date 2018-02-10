@@ -670,10 +670,6 @@ video {
     -moz-transition: none;
 }
 
-.navbar-brand a img {
-    height: 60px;
-}
-
 .navbar-brand {
     -webkit-transition: all 200ms ease-in;
     -o-transition: all 200ms ease-in;
@@ -3091,7 +3087,8 @@ textarea {
 @media (min-width: 1271px) { 
 	.body-wrapper {
 	    padding-left: 80px
-	}
+    }
+    
 	.navbar-collapse {
 	    height: auto;
 	    border-top: 0;
@@ -3112,7 +3109,11 @@ textarea {
 	.navbar-brand {
 	    float: none;
 	    margin: 30px 0 70px 0;
-	}
+    }
+    .navbar-brand a img {
+        height: 60px;
+        width: 60px;
+    }
 	.navbar {
 	    width: 80px;
 	    max-width: 80px;

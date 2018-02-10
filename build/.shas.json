@@ -88,14 +88,28 @@
     "inputSha": [
       {
         "file": "style.css",
-        "sha": "494cbbd7f9202997e68b2ca29a69f32809d02b34"
+        "sha": "3068ad0e2f42c9e5ae69c9e94e2b55c6333fb3cd"
       }
     ],
-    "outputSha": "948e454b10b6e331fa8aab38740232ed690f518b",
+    "outputSha": "4ee98d974149b0237acac672ce97e4952fb937df",
     "input": "style.css",
     "output": [
       "style.css.map",
       "style.css"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/cubMaze.html",
+        "sha": "e18bb8cd2348caa8a738857dd42b82f46a619d9f"
+      }
+    ],
+    "outputSha": "b9b95c693b45a13ceaec446076006572c1c40ebd",
+    "input": "ajax/cubMaze.html",
+    "output": [
+      "ajax/cubMaze.html"
     ]
   },
   {
@@ -124,20 +138,6 @@
     "input": "ajax/hmfg.html",
     "output": [
       "ajax/hmfg.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "ajax/cubMaze.html",
-        "sha": "e18bb8cd2348caa8a738857dd42b82f46a619d9f"
-      }
-    ],
-    "outputSha": "b9b95c693b45a13ceaec446076006572c1c40ebd",
-    "input": "ajax/cubMaze.html",
-    "output": [
-      "ajax/cubMaze.html"
     ]
   },
   {
@@ -186,20 +186,6 @@
     "type": "::map::minify",
     "inputSha": [
       {
-        "file": "ajax/switchboard.html",
-        "sha": "ace7321f4884ca3ae2aff9dc8fdb4ed4167b61b4"
-      }
-    ],
-    "outputSha": "2b3601ac4185d8853e2aedfaecf8d15c907990e9",
-    "input": "ajax/switchboard.html",
-    "output": [
-      "ajax/switchboard.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
         "file": "ajax/rgups.html",
         "sha": "9c3e5fee63586b96d1ae4914b7edf4edb5af6c5d"
       }
@@ -214,6 +200,20 @@
     "type": "::map::minify",
     "inputSha": [
       {
+        "file": "ajax/switchboard.html",
+        "sha": "ace7321f4884ca3ae2aff9dc8fdb4ed4167b61b4"
+      }
+    ],
+    "outputSha": "2b3601ac4185d8853e2aedfaecf8d15c907990e9",
+    "input": "ajax/switchboard.html",
+    "output": [
+      "ajax/switchboard.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
         "file": "ajax/workShopVR.html",
         "sha": "175abb12ae3c342134b63d12c2afe1f44dd2475c"
       }
@@ -222,90 +222,6 @@
     "input": "ajax/workShopVR.html",
     "output": [
       "ajax/workShopVR.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "ajax/old_templates/port1-more.html",
-        "sha": "5f2305b195cd28a1cc3f98a78caf614dea2498c4"
-      }
-    ],
-    "outputSha": "7eeaf595942e4a582b476538d5202c4d78fe59cb",
-    "input": "ajax/old_templates/port1-more.html",
-    "output": [
-      "ajax/old_templates/port1-more.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "ajax/old_templates/port2-more.html",
-        "sha": "08cb0968efbde11a18c0354a3472eecd06a44c67"
-      }
-    ],
-    "outputSha": "e4a69faf75a5ee0e09cf1dba057f7fc1b440d6e5",
-    "input": "ajax/old_templates/port2-more.html",
-    "output": [
-      "ajax/old_templates/port2-more.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "ajax/old_templates/post1.html",
-        "sha": "292ae762f88d249ee98f6ffdf5076c082bf189ec"
-      }
-    ],
-    "outputSha": "5a92b78b11de02220e1c7a4fedcab79602182731",
-    "input": "ajax/old_templates/post1.html",
-    "output": [
-      "ajax/old_templates/post1.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "ajax/old_templates/post2.html",
-        "sha": "da6bb4d4d22e0cf96b6d0f5c609d7b6789fa2dee"
-      }
-    ],
-    "outputSha": "57e83486deab51b45f146655909959b99845f589",
-    "input": "ajax/old_templates/post2.html",
-    "output": [
-      "ajax/old_templates/post2.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "ajax/old_templates/post3.html",
-        "sha": "d3d5c00fcc10162d4b020e30baf076ade093af20"
-      }
-    ],
-    "outputSha": "2d1a44f46e7da81ab1ceb9e9bf55fe82f1a1f073",
-    "input": "ajax/old_templates/post3.html",
-    "output": [
-      "ajax/old_templates/post3.html"
-    ]
-  },
-  {
-    "type": "::map::minify",
-    "inputSha": [
-      {
-        "file": "ajax/old_templates/post4.html",
-        "sha": "6256078a5fdbfa57e87298fa495c3927c72cf568"
-      }
-    ],
-    "outputSha": "012b33a414be75b3fe20daac7afe717adb93deee",
-    "input": "ajax/old_templates/post4.html",
-    "output": [
-      "ajax/old_templates/post4.html"
     ]
   },
   {
@@ -411,6 +327,90 @@
     "output": [
       "style/js/scripts.js.map",
       "style/js/scripts.js"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/port1-more.html",
+        "sha": "5f2305b195cd28a1cc3f98a78caf614dea2498c4"
+      }
+    ],
+    "outputSha": "7eeaf595942e4a582b476538d5202c4d78fe59cb",
+    "input": "ajax/old_templates/port1-more.html",
+    "output": [
+      "ajax/old_templates/port1-more.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/port2-more.html",
+        "sha": "08cb0968efbde11a18c0354a3472eecd06a44c67"
+      }
+    ],
+    "outputSha": "e4a69faf75a5ee0e09cf1dba057f7fc1b440d6e5",
+    "input": "ajax/old_templates/port2-more.html",
+    "output": [
+      "ajax/old_templates/port2-more.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/post1.html",
+        "sha": "292ae762f88d249ee98f6ffdf5076c082bf189ec"
+      }
+    ],
+    "outputSha": "5a92b78b11de02220e1c7a4fedcab79602182731",
+    "input": "ajax/old_templates/post1.html",
+    "output": [
+      "ajax/old_templates/post1.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/post2.html",
+        "sha": "da6bb4d4d22e0cf96b6d0f5c609d7b6789fa2dee"
+      }
+    ],
+    "outputSha": "57e83486deab51b45f146655909959b99845f589",
+    "input": "ajax/old_templates/post2.html",
+    "output": [
+      "ajax/old_templates/post2.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/post3.html",
+        "sha": "d3d5c00fcc10162d4b020e30baf076ade093af20"
+      }
+    ],
+    "outputSha": "2d1a44f46e7da81ab1ceb9e9bf55fe82f1a1f073",
+    "input": "ajax/old_templates/post3.html",
+    "output": [
+      "ajax/old_templates/post3.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "ajax/old_templates/post4.html",
+        "sha": "6256078a5fdbfa57e87298fa495c3927c72cf568"
+      }
+    ],
+    "outputSha": "012b33a414be75b3fe20daac7afe717adb93deee",
+    "input": "ajax/old_templates/post4.html",
+    "output": [
+      "ajax/old_templates/post4.html"
     ]
   },
   {
